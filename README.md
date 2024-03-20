@@ -10,6 +10,7 @@ Welcome to the Programming Paradigms course repository! This repository contains
 
 **Assignment 3: Object-Oriented Programming in C**
 >Folder: vector and hashset
+
 >Description: Explore object-oriented programming principles in C, including encapsulation, inheritance, and polymorphism.
 
 **Assignment 4: RSS News Feed Aggregation**
@@ -17,9 +18,13 @@ Welcome to the Programming Paradigms course repository! This repository contains
 
 **Assignment 5: Bank**
 >Folder: bankdriver
+
 >Description: the task of retrofitting the bank's single-threaded software to support multiple threads running in parallel
 
+**Assignment 5: Where Am I?**
+>Folder: where am I
 
+* *All folders include their own ReadMes and pdfs explaining the assignmnet* *
 
 ## Getting Started
 Clone the repository: git clone https://github.com/your-username/programming-paradigms.git
