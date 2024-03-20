@@ -2,16 +2,16 @@
 Welcome to the Programming Paradigms course repository! This repository contains assignments and projects completed as part of the course, exploring various programming paradigms using C and Scheme programming languages.
 
 ## Assignments
-** Assignment 1: Random Sentence Generator **
+**Assignment 1: Random Sentence Generator**
 Folder: RSG
-** Assignment 2: Six Degrees of Kevin Bacon **
+**Assignment 2: Six Degrees of Kevin Bacon**
 Folder: Six degrees
-** Assignment 3: Object-Oriented Programming in C **
+**Assignment 3: Object-Oriented Programming in C**
 Folder: vector and hashset
 Description: Explore object-oriented programming principles in C, including encapsulation, inheritance, and polymorphism.
-** Assignment 4: RSS News Feed Aggregation **
+**Assignment 4: RSS News Feed Aggregation**
 Folder: rss news search
-** Assignment 5: Bank **
+**Assignment 5: Bank**
 Folder: bankdriver
 Description: the task of retrofitting the bank's single-threaded software to support multiple threads running in parallel
 
