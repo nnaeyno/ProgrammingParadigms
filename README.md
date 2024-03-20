@@ -24,7 +24,8 @@ Welcome to the Programming Paradigms course repository! This repository contains
 **Assignment 5: Where Am I?**
 >Folder: where am I
 
-* *All folders include their own ReadMes and pdfs explaining the assignmnet* *
+
+*All folders include their own ReadMes and pdfs explaining the assignmnet*
 
 ## Getting Started
 Clone the repository: git clone https://github.com/your-username/programming-paradigms.git
