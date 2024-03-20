@@ -15,14 +15,6 @@ Folder: rss news search
 Folder: bankdriver
 Description: the task of retrofitting the bank's single-threaded software to support multiple threads running in parallel
 
-ProgrammingParadigms/
-│
-├── /{Assignment Folder}        # Procedural Programming Assignment
-│   ├── src/                       # Source code files
-│   ├── README.md                  # Assignment-specific README
-│   └── Makefile                   # Build configuration
-│ 
-└── README.md                      # Course README file
 
 ## Getting Started
 Clone the repository: git clone https://github.com/your-username/programming-paradigms.git
